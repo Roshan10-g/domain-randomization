@@ -198,9 +198,12 @@ domain-randomization/
 
 ---
 
-## Author
+## Authors
 
-**Roshan**
+- **Roshan**
+- **Vamshi**
+- **Ajay**
+- **Ambarish**
 
 ---
 
