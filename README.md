@@ -78,6 +78,8 @@ pip install pygame
 
 ## Usage
 
+> **Quickstart:** `pip install -r requirements.txt` then run `python train.py` followed by `python evaluate.py`.
+
 ### 1. Train both agents (~3-5 minutes)
 
 ```bash
